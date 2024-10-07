@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Adrydevmateo/Adrydevmateo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    Solution-oriented Web Developer with over a year of experience delivering high-impact projects with proven ability to cultivate strong relationships that enhance collaboration and drive strategic goals. Highly adaptable in fast-paced environments, leveraging great communication skills to ensure team alignment and achieve project success.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Experienced in responsive design.          
+- Proficient in HTML, CSS, and JavaScript.
+- Familiar with testing tools.
+- Implement SEO best practices.
+- Skilled in performance optimization.
+- Follow accessibility best practices.
+- Strong communication skills.
+- Experienced using collaboration tools.
+- Active listening.
+- Adaptability to change.
+- High emotional intelligence.
+- Conflict resolution abilities.
+- Problem solving mindset.
